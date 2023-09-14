@@ -4,7 +4,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=erickgms01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jpmais&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" alt="GitHub Stats">
   </div>
 </div>
 
