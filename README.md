@@ -1,19 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f08080&size=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+João+Paulo+Vieira+Matos;I'm+17+years+old;I+from+Brasil,+CE;I+study+Back-end+development;Welcome!)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpmais&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fffdd0_color=fffdd0" alt="João Paulo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmais&layout=compact&hide_border=true&title_color=00bfbf&text_color=fffdd0_color=fffdd0" />
+<div align="center">
+  <h2>👋 Olá, seja bem-vindo ao meu mundo!</h2>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=jpmais&theme=gotham&hide_border=true&area=true)
-
-### Studying in this moment:
-<div astyle="display: inline_block">
-<img alt="joão-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="joão-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="joão-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img alt="joão-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=erickgms01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" alt="GitHub Stats">
+  </div>
 </div>
-  <hr>
-<a href="https://instagram.com/jpmais_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:jpmais2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<p align="center">
+  <em>
+    "Eu sou o João Paulo, e é uma honra compartilhar minha jornada na programação com você. Com meus 17 anos de idade, meu encontro com a programação através da escola despertou uma paixão que continua a crescer. Cada dia é uma nova oportunidade para aprimorar minhas habilidades e buscar a excelência em tudo que faço."
+  </em>
+</p>
+<div align="center">
+  <h3>🚀 Tecnologias e Ferramentas 🛠️</h3>
+  <img alt="Java" height="40" width="50" src="https://skillicons.dev/icons?i=js">
+  <img alt="HTML5" height="40" width="50" src="https://skillicons.dev/icons?i=html">
+  <img alt="CSS3" height="40" width="50" src="https://skillicons.dev/icons?i=css">
+  <img alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=java&theme=light">
+</div>
+
+<div align="center">
+  <h3>🔗 Conecte-se comigo 🌐</h3>
+  <a href="https://www.instagram.com/jpmais_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:jpmais2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
+
+<div align="center">
+  <h3>🎯 Objetivos Futuros 🚀</h3>
+  <p>Estou determinado a continuar minha jornada na programação</p>
+</div>
