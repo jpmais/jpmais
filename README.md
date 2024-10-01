@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>
-    "Eu sou o João Paulo, e é uma honra compartilhar minha jornada na programação com você. Com meus 18 anos de idade, meu encontro com a programação através da escola. Cada dia é uma nova oportunidade para aprimorar minhas habilidades e buscar a excelência em tudo que faço."
+    "Eu sou o João Paulo, e é uma honra compartilhar minha jornada na programação com você. Com meus 19 anos de idade, meu encontro com a programação através da escola. Cada dia é uma nova oportunidade para aprimorar minhas habilidades e buscar a excelência em tudo que faço."
   </em>
 </p>
 <div align="center">
